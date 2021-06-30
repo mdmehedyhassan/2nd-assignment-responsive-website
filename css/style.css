@@ -1,6 +1,18 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-.images-just-responsive{
 
+.last-div-shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.last-div-shadow:hover{
+    box-shadow: 10px 10px 40px black;
+}
+.card-div-shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.card-div-shadow:hover{
+    box-shadow: 10px 10px 40px black;
 }
